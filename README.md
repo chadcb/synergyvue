@@ -1,4 +1,6 @@
 # SynergyVUE Python Client
+[![PyPI version](https://badge.fury.io/py/synergyvue.svg)](https://badge.fury.io/py/synergyvue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Access your StudentVUE information via Python.
 
